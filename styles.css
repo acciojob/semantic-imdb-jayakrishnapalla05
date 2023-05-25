@@ -1,18 +1,20 @@
 
 /* Your CSS Code here. */
 header{
-	background-color:black;
+	background-color:#79adf3;
 	color:white;
 	text-align:center;
 }
-.navbar li a{
+.navbar a{
 	text-decoration:none;
 	color:white;
-	list-style:none;
 }
-.navbar li{
-	list-style:none;
+#quote{
+	background-color:lightcoral;
+	border:1px solid green;
+	border-radius:5px;
+	padding:10px;
 }
-.navbar #nav-actor{
-padding:30px
+#quote h3{
+	color:Yellow;
 }
