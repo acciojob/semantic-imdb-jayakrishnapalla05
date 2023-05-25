@@ -4,4 +4,8 @@ header{
 	background-color:black;
 	color:white;
 	text-align:center;
+	display:grid;
+}
+.navbar li a{
+	text-decoration:none;
 }
