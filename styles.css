@@ -4,8 +4,15 @@ header{
 	background-color:black;
 	color:white;
 	text-align:center;
-	display:grid;
 }
 .navbar li a{
 	text-decoration:none;
+	color:white;
+	list-style:none;
+}
+.navbar li{
+	list-style:none;
+}
+.navbar #nav-actor{
+padding:30px
 }
